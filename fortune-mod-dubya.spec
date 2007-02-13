@@ -1,6 +1,6 @@
 %define snap    20031125
 Summary:	Collection of George W. Bush fortunes
-Summary(pl.UTF-8):   Kolekcja fortunek z wypowiedzi Georga W. Busha
+Summary(pl.UTF-8):	Kolekcja fortunek z wypowiedzi Georga W. Busha
 Name:		fortune-mod-dubya
 Version:	0.%{snap}
 Release:	1
