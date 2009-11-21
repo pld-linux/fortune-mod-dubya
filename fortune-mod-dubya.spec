@@ -9,6 +9,7 @@ Group:		Applications/Games
 Source0:	http://dubya.seiler.us/files/dubya-20031125.tar.gz
 # Source0-md5:	c752ab197c7278761f3c267a01305440
 URL:		http://dubya.seiler.us/
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
